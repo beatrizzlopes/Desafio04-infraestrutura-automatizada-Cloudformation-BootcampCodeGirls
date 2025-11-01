@@ -2,7 +2,7 @@
 
 # Introdução
 
-Este repositório possui o desafio implementar uma infraestrutura automatizada com AWS CloudFormation, minhas anotações e insights adquiridos durante as aulas e o desafio do bootcamp Santander Code Girls com a DIO, focado em computação em nuvem com AWS.
+Este repositório possui o desafio: implementar uma infraestrutura automatizada com AWS CloudFormation, minhas anotações e insights adquiridos durante as aulas e o desafio do bootcamp Santander Code Girls com a DIO, focado em computação em nuvem com AWS.
 
 # Objetivo do desafio
 
@@ -33,6 +33,8 @@ O AWS CloudFormation é um serviço que permite modelar e automatizar a criaçã
 3. Gerar a stack – O CloudFormation lê o template e cria a stack, provisionando e configurando automaticamente todos os recursos definidos.
 
 # Insights
+
+Durante esse processo de aprendizagem, percebi que a automação da infraestrutura, além de reduzir erros manuais, também aumenta a velocidade e a segurança dos recursos contidos na nuvem.
 
 # Autora
 
