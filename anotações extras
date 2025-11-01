@@ -1,1 +1,11 @@
+📝 Anotações extras
 
+☁️ Benefícios do AWS CloudFormation
+
+- Automação: O AWS CloudFormation ajuda a automatizar o processo de criação, configuração e gerenciamento de recursos da AWS. Isso permite que a infraestrutura seja implantada de forma rápida, confiável e repetida.
+
+- Consistência e padronização: Com o AWS CloudFormation, é possível criar modelos de infraestrutura reutilizáveis, permitindo gerar cópias idênticas da mesma pilha. Isso garante consistência nas implantações e facilita a manutenção.
+
+- Economia de custos – O AWS CloudFormation permite reutilizar modelos de infraestrutura em diferentes ambientes, reduzindo o esforço e os custos de projetar e implementar novas pilhas.
+
+- Segurança – O AWS CloudFormation garante que os recursos sejam configurados seguindo políticas e regras de segurança, protegendo a infraestrutura contra possíveis ameaças.
