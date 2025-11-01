@@ -2,7 +2,7 @@
 
 # Introdução
 
-Este repositório possui o desafio: implementar uma infraestrutura automatizada com AWS CloudFormation, minhas anotações e insights adquiridos durante as aulas e o desafio do bootcamp Santander Code Girls com a DIO, focado em computação em nuvem com AWS.
+Este repositório possui: o desafio implementar uma infraestrutura automatizada com AWS CloudFormation, minhas anotações e insights adquiridos durante as aulas e o desafio do bootcamp Santander Code Girls com a DIO, focado em computação em nuvem com AWS.
 
 # Objetivo do desafio
 
